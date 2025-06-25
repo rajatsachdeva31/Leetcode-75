@@ -6,11 +6,10 @@ Welcome to my **Leetcode 75** curated sheet solutions repository! This project c
 
 ## 📌 About the Leetcode 75 Sheet
 
-The **Leetcode 75 Study Plan** is divided into three focused parts:
+The **Leetcode 75 Study Plan** is divided into two focused parts:
 
-- **Part 1 – Easy to Medium (Initial Core Concepts)**
-- **Part 2 – Intermediate (More Challenging Concepts)**
-- **Part 3 – Advanced (Deep Dive Into Key Topics)**
+- **Part 1 – Easy (Initial Core Concepts)**
+- **Part 2 – Medium (More Challenging Concepts)**
 
 This repository contains:
 - JavaScript solutions to each problem
